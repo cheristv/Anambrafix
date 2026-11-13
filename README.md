@@ -1,5 +1,4 @@
 # ANAMBRAFIX
-## 4 + 4 ?
 ### Your Community. Your Voice.
 
 A digital civic reporting platform connecting Anambra State residents with community information, public services, and opportunities to participate in community development.
@@ -260,18 +259,21 @@ The project follows these principles:
 AnambraFix is intended to provide benefits to both residents and the wider community.
 
 **For residents:**
+
 - Easier access to relevant information.
 - A convenient digital reporting channel.
 - Better awareness of community projects.
 - Access to organized public-service information.
 
 **For communities:**
+
 - Improved digital communication.
 - Greater opportunities for citizen participation.
 - Better visibility of community concerns.
 - Support for community awareness and development.
 
 **For public administration:**
+
 - An additional digital communication channel.
 - A platform that can support more organized citizen engagement.
 - Opportunities to improve access to public information.
@@ -291,7 +293,27 @@ Future development opportunities include:
 
 These improvements are intended to support the long-term development of AnambraFix.
 
-## 12. Project Information
+## 12. AI Tools and Development Assistance
+
+Artificial Intelligence (AI) tools, particularly ChatGPT, were used as supporting resources during the development of AnambraFix.
+
+However, AnambraFix was not entirely generated or developed by AI. The developer actively participated in the planning, implementation, configuration, testing, troubleshooting, and technical decision-making throughout the project.
+
+AI assistance was used where necessary to support and improve the development process, including:
+
+- **Debugging and troubleshooting:** Helping identify programming errors, understand their causes, and explore possible solutions.
+- **Code explanation:** Explaining programming concepts, functions, and technical implementations.
+- **Problem-solving:** Providing guidance when encountering technical challenges during development.
+- **Code improvement:** Suggesting improvements to code structure, readability, and organization.
+- **Technical guidance:** Supporting the integration and use of React Native, Expo, TypeScript, and Supabase.
+- **UI/UX improvement:** Exploring ideas for improving the application's interface and user experience.
+- **Documentation:** Assisting with technical documentation and project write-up.
+
+AI tools served as development assistants and problem-solving resources, not as replacements for the developer's work, judgment, or involvement.
+
+The developer remained actively responsible for the project's direction, implementation, configuration, testing, review, and overall development.
+
+## 13. Project Information
 
 **Project Name:** AnambraFix
 
@@ -311,13 +333,13 @@ These improvements are intended to support the long-term development of AnambraF
 
 **Head of Department:** Prof. Ike Mbgbeafuike
 
-## 13. Repository
+## 14. Repository
 
 GitHub Repository:
 
 https://github.com/cheristv/Anambrafix
 
-## 14. License
+## 15. License
 
 This project includes a LICENSE file in the repository. Refer to that file for the applicable licensing terms.
 
