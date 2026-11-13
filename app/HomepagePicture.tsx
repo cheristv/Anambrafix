@@ -123,7 +123,7 @@ export default function HomepagePicture() {
         ]}
       >
         <Text style={[styles.placeholderText, { color: theme.textSecondary }]}>
-          Welcome to Igbo-Eze North
+          Welcome to AnambraFix App.
         </Text>
       </View>
     );
