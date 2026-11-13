@@ -1,0 +1,19 @@
+
+{
+  "name": "ANAMBRAFIX",
+  "short_name": "AnambraFix",
+  "description": "Your Community. Your Voice.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#087A43",
+  "background_color": "#FFFFFF",
+  "icons": [
+    {
+      "src": "/app-icon.png",
+      "sizes": "any",
+      "type": "image/png"
+    }
+  ]
+}

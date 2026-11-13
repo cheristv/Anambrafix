@@ -1,0 +1,51 @@
+{
+  "expo": {
+    "name": "ANAMBRAFIX",
+    "slug": "anambrafix",
+    "scheme": "anambrafix",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/anambralogo.png",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.anambrafix.app"
+    },
+    "android": {
+      "package": "com.anambrafix.app",
+      "adaptiveIcon": {
+        "backgroundColor": "#FFFFFF",
+        "foregroundImage": "./assets/anambralogo.png"
+      }
+    },
+    "web": {
+      "output": "static",
+      "name": "ANAMBRAFIX",
+      "shortName": "AnambraFix",
+      "description": "Your Community. Your Voice.",
+      "themeColor": "#087A43",
+      "backgroundColor": "#FFFFFF",
+      "display": "standalone",
+      "orientation": "portrait",
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-asset",
+      "expo-image",
+      "expo-font",
+      "expo-status-bar"
+    ],
+    "extra": {
+      "router": {
+        "asyncRoutes": {
+          "web": true
+        }
+      },
+      "eas": {
+        "projectId": "28cab31d-a648-4617-b6c6-ee4582549f46"
+      }
+    },
+    "owner": "cheristv"
+  }
+}
